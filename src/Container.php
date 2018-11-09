@@ -1,0 +1,32 @@
+<?php
+namespace P4F\Components\Utilities;
+
+use Exception;
+use ArrayAccess;
+use Iterator;
+
+class Container extends ArrayObject implements ArrayAccess, Iterator{
+    //////////////////////////
+    // PROTECTED PROPERTIES //
+    //////////////////////////
+
+    ////////////////////////
+    // PRIVATE PROPERTIES //
+    ////////////////////////
+
+    ///////////////////
+    // MAGIC METHODS //
+    ///////////////////
+
+    ///////////////////
+    // PULIC METHODS //
+    ///////////////////
+
+    ///////////////////////
+    // PROTECTED METHODS //
+    ///////////////////////
+    
+    /////////////////////
+    // PRIVATE METHODS //
+    /////////////////////
+}
