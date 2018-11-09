@@ -1,7 +1,7 @@
 {
 	"name": "P4F/Components/Utilities",
-	"minimum-stability": "dev",
 	"prefer-stable": true,
+	"minimum-stability": "dev",
 	"config": {
 		"vendor-dir": "examples/packages"
 	},
